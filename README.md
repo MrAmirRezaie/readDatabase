@@ -106,7 +106,7 @@
 - Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 ---
 
-## 📞 Contact
+## Contact
 
 For questions, feedback, or bug reports, contact the maintainer:
 - **Email**: MrAmirRezaie70@gmail.com
